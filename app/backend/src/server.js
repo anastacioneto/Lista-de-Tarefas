@@ -3,6 +3,7 @@ const routes = require("./routes");
 const bodyParser = require("body-parser");
 
 require("dotenv").config();
+require("./database/index");
 
 const app = express();
 const PORT = process.env.PORT;
