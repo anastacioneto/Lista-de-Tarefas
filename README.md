@@ -60,18 +60,12 @@ O projeto é composto de 4 entidades importantes para sua estrutura:
   <summary><strong>⚠️ Configurações mínimas nas máquinas locais para rodar o projeto</strong></summary><br />
 
 Na sua máquina você deve ter:
-	
+
+ - Git
  - Sistema Operacional Distribuição Unix
  - Node versão 16  
  - Docker
- - Docker-compose versão 1.29.2	
-	
-➡️ O `node` deve ter versão igual ou superior à `16.15.0 LTS`. 
-	* Para instalar o nvm, [acesse esse link](https://github.com/nvm-sh/nvm#installing-and-updating);
-	*Rode os comandos abaixo para instalar a versão correta de `node` e usá-la:
-		* `nvm install 16 --lts`
-		* `nvm use 16`
-		* `nvm alias default 16` 
+ - Docker-compose versão 1.29.2
+ - Editor da preferência para trabalhar com o código
 
-➡️ O`docker-compose` deve ter versão igual ou superior à`ˆ1.29.2`.
 </details>
